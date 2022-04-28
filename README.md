@@ -3,15 +3,23 @@
 
 - 🔭 I’m currently working on [D2R Consultoría Tecnológica](https://www.d2rconsultoriatecnologica.es)
 
-- 🌱 I’m currently learning **UX/UI**
+- I also have experience in QA testing
+
+- 🌱 I’m currently learning **UX/UI** and **Project Management" on Coursera
 
 - 📝 I regularly write articles on [https://dani2rr.blogspot.com](https://dani2rr.blogspot.com)
 
-- 💬 Ask me about **Renpy**
+- 💬 Ask me about **Manual Testing**
 
 - 📫 How to reach me **danielrrivero@protonmail.com**
 
 - ⚡ Fun fact **I´m developing a RPG based in your life.**
+
+<h3 align="left">Some of my projects on Github:</h3>
+
+- <a href="https://github.com/DanielRodriguezRivero/50xRoboto">50xRoboto</a> : Quiz game in Spanish.
+- <a href="https://github.com/DanielRodriguezRivero/Jim-del-Espacio-Exterior-2">Jim del Espacio Exterior 2</a> : Visual novel in Spanish.
+- <a href="https://github.com/DanielRodriguezRivero/Elecciones_generales">Elecciones Generales</a> : Visual novel in Spanish.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
