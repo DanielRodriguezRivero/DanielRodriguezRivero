@@ -5,7 +5,7 @@
 
 - 😎 I also have experience in QA testing
 
-- 🌱 I’m currently learning **UX/UI** and **Project Management" on Coursera
+- 🌱 I’m currently learning **UX/UI** and **Project Management** on Coursera
 
 - 📝 I regularly write articles on [https://dani2rr.blogspot.com](https://dani2rr.blogspot.com)
 
