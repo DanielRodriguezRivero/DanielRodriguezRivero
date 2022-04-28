@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [D2R Consultoría Tecnológica](https://www.d2rconsultoriatecnologica.es)
 
-- I also have experience in QA testing
+- 😎 I also have experience in QA testing
 
 - 🌱 I’m currently learning **UX/UI** and **Project Management" on Coursera
 
