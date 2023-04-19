@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Rodríguez</h1>
 <h3 align="center">A passionate IT Support Specialist from Spain</h3>
 
-- 🔭 I’m currently working on [D2R Consultoría Tecnológica](https://www.d2rconsultoriatecnologica.es)
+- 🔭 I’m currently working on [D2R Ediciones](https://www.d2rediciones.com)
 
-- 😎 I also have experience in QA testing
+- 😎 I have experience in QA testing
 
 - 🌱 I’m currently learning **UX/UI** and **Project Management** on Coursera
 
@@ -20,6 +20,7 @@
 - <a href="https://github.com/DanielRodriguezRivero/50xRoboto">50xRoboto</a> : Quiz game in Spanish.
 - <a href="https://github.com/DanielRodriguezRivero/Jim-del-Espacio-Exterior-2">Jim del Espacio Exterior 2</a> : Visual novel in Spanish.
 - <a href="https://github.com/DanielRodriguezRivero/Elecciones_generales">Elecciones Generales</a> : Visual novel in Spanish.
+- <a href="https://github.com/DanielRodriguezRivero/ideamatic">Idea-Matic</a> : Simple tool to help your inspiration.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
