@@ -82,8 +82,7 @@
         <td>
       <a href="https://www.openbank.es" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" data-original-height="225" data-original-width="225" height="129" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoUPuNJbU7UbDI6PRDu7DJTMhk-A2hYjA2OYm-FOwaPWZw4x7AUkI5-pPElybyuHOYTpBTgCEMSbp6tXZo5EWssNkggbmJticdG-vZgljvyl8OdYLtGjgT2SZaFWqdzjDCftx8DKuuVnPWI5udj_mC48XCJbRJx1hUetq70naAPltEgRyJTSMwnanUxw/w129-h129/openbank.png" title="Backoffice" width="129" /></a></td>   
     <td>
-      <a href="https://madisonmk.com" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" data-original-height="130" data-original-width="248" height="86" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzcPdQyYr2VH-rzjQHR-Lyem59kCT5qZwbTRz-5iFA-9kYT6_Qaxp94r0PFOvRtioZGEkaniVUr3yvcfAPV_PKq7sSKAL4HKMdXCw5u9yCadtIOTesaI4fUBI7AZQDXEESFxMqii83Df8lFBp8inKgb0Je86cAFRdCvTc0XsDiBn0ZYblc2S_WL50Pow/w163-h86/madisonmk.png" title="Formación, Técnico informático, Backoffice" width="163" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"></td>
-      
+      <a href="https://madisonmk.com" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" data-original-height="130" data-original-width="248" height="86" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzcPdQyYr2VH-rzjQHR-Lyem59kCT5qZwbTRz-5iFA-9kYT6_Qaxp94r0PFOvRtioZGEkaniVUr3yvcfAPV_PKq7sSKAL4HKMdXCw5u9yCadtIOTesaI4fUBI7AZQDXEESFxMqii83Df8lFBp8inKgb0Je86cAFRdCvTc0XsDiBn0ZYblc2S_WL50Pow/w163-h86/madisonmk.png" title="Formación, Técnico informático, Backoffice" width="163" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"></td> 
     </tr>
   </tbody>
 </table>
