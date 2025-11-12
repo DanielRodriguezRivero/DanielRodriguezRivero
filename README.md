@@ -49,7 +49,44 @@
 </div>
 </div>
 
-
+<h2 align="left">Companies I have worked with</h2>
+<table border="2">
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://www.bancosantander.es/particulares" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img alt="Banco Santander" border="0" data-original-height="360" data-original-width="652" height="111" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYnREYg6mcJwFZAnX0eCYz2kMCQOHeRQGSKw9EeN7CE8Qs00NNd_75UV2QlyUl6NadmmBjSI8VH6mc28HlOntzWye53LJ6oeD8ITZeG0sbvFIthMfSpaHx9uAnQ2183O0UL9SqdP-dyIL-/w200-h111/banco+santander.jpg" title="Plataformado de equipos, Smoke testing de los mismos" width="200" /></a></td>
+      <td>
+        <a href="https://www.keywordsstudios.com/en/services/globalize/qa-testing/" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img alt="Enzyme Testing Labs Pruebas de videojuegos" border="0" data-original-height="225" data-original-width="224" height="168" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyM9AUCmqf-qrCsBUXsy3CCs-7nmsm6W0lUEScRAPdofKDAUBP0s4pTw4SdKCgcfDaIuX9zHncmdPwkrCdpHZhSSbpbDCjxF-9e699Hzgvop3WiDE-8S4kk1Tt-CdCFG_2nwPxzh9BEJeJ/w167-h168/enzyme+testing+labs+logo.jpeg" title="Testing de videojuegos, testing de software, traducción Eng / Spa" width="167" /></a></td>
+      <td>
+        <a href="https://www.konami.com/games/eu/es/" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img alt="Konami" border="0" data-original-height="800" data-original-width="1200" height="133" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK8KpdC2w-RBgfqU1OSrKuyAMG3xe0K2aO4qMVigoB-WXc5O6pCn-RtcCUxFnSQLmVb3aA4r6OKwxMCANt8FZe79DCqXmjL5hMygF8M3Da3wCDbyFA4VzJj31WLG3AoWRzEJ88PIfqOZTf/w200-h133/konami+logo.jpg" title="Atención al cliente" width="200" /></a></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.taxi-angus.com" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img alt="Taxi-Angus" border="0" data-original-height="335" data-original-width="400" height="142" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRGkaqoQ9r5WmbPU7FZBca-T6wjOq8dBi7uzoUW2qifsTOi4ZLe1vASF3M-pzeoBxGJzDP-_C1iyNOIbrfNHf6U1nSImQJOju28UzaggcRvhTMfHPvXhpNb2XY1o1jRKiYDh5ZyDe8vSk9/w155-h142/Logo-Taxi-Angus.png" title="Asesoría técnica" width="155" /></a></td>
+      <td>
+        <a href="https://web.movistar.es/landings?custom=353662229_kwd-33593574247&amp;sem=sem-brand_purebrand_mst&amp;tc_alt=31241&amp;n_o_pst=n_o_pst&amp;n_okw=%2Bmovistar_e__c_22804106789_353662229_kwd-33593574247_&amp;gad_source=1&amp;gclid=CjwKCAiAt5euBhB9EiwAdkXWO3UhNw-mF162FG0xIVkh9NBIjIGpmxiuDHMmTF43Lgqn6KadBOLtSxoC2D4QAvD_BwE&amp;gclsrc=aw.ds" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img alt="Movistar" border="0" data-original-height="1152" data-original-width="2048" height="113" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgteOnf7RkHtm_b5kXQuDqvrWguMIuOfrvyet2VgpsLQDoImYsodWBDxLxkcWiccEW97yocqnFalI-bGSQ_V_WwLmXyIepEwPBTZ78jUrZNg6_4vSBxaB50YD_NdN9mMNLvSRJrY2FnUUp3/w180-h113/Movistar-Logo.png" title="Testing de aplicaciones" width="180" /></a></td>
+            <td>
+              <a href="https://valquiriateatro.es" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img alt="Valquiria Teatro" border="0" data-original-height="147" data-original-width="512" height="58" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizdg_bdrKtnUrWFvZObO1FwaPSaZ7tYirQAJ44qvnLdS949dvMAnH9G-WcfZ9yv6Xsk7KJK4YyD-UsgZd39WPTv1q5MNCKfzy4nj9nvHLXI-i4pwf34DMIenB3cwvTzazXPlRGaNcO2h2_/w189-h58/valquiria+teatro.jpg" title="Asesoría técnica, Soporte técnico" width="189" /></a></td>
+    </tr>
+    <tr>
+            <td>
+              <a href="https://www.renfe.com/es/es" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img alt="Renfe" border="0" data-original-height="420" data-original-width="1000" height="84" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUXKRhef6VQJAiZAYQKoG2-Tcl7ehsPkHJMrjVCyimpyvDWK64x7_mmaCsjAb77ADyBqiivOTIQi4Uu-5NvhYi9XhQ-IsE8gW5DmuKcRxb970XwyIxaIf553wk5Au_og3p1uJMGjhkeyoe/w183-h84/Renfe_Logo.png" title="Testing de redes y aplicaciones" width="183" /></a></td>
+          <td>
+          <a href="https://inversia.es" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img alt="Inversia" border="0" data-original-height="126" data-original-width="228" height="81" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf7Rbn53FKHLSeP-7TIWWkEG_H5SaiHG92E3wBs1MoDzr1QqV2rluiDRzfLU5AFtLIIFCVeu6TGxjoLk4LAbNvhgk45D6uUaFxts_OfnGFGuzWChjWxDIJpHwnqxNsNRh01HUCKnixcUqi/w146-h81/inversia.png" width="146" /></a></td>
+      <td> 
+      <a href="https://www.linkedin.com/company/iecisa/?originalSubdomain=es" rel="nofollow" style="display: block; padding: 1em 0px; text-align: center;" target="_blank"><img alt="IECISA Informática El Corte Inglés" border="0" data-original-height="222" data-original-width="615" height="116" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_qdnD-yOx3zHbqfu_AkBdtl9urx3dv8yeYvV14dP_MszIIfNMPxYsXXlW8pEEGOGeCKGls427FAQL6Il2Ne6E3MkkPZb11BvE6lsW4eDg3DN9CuoCfwI0b26CNhGZ1_Yw-zPCU2FY1qem/w199-h116/iecisa.jpg" title="Soporte Técnico" width="199" /></a></td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://www.carnicasdiscarpe.com" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img alt="Cárnicas Discarpe" border="0" data-original-height="130" data-original-width="119" height="116" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZU66JN0gCf4rbJB9mfjt1rJORs9Ygii9Jp9exYFuuXV2s8dH9jeS8THkzyXn8Yx_cuQNekENxJIHe1ppx-ylQXMQdny05d0LKX_LPsUc990fjw9Qbo204IS8P4rmlnJZPbBDJLgEbYXRR/w106-h116/discarpe_logo.png" title="Asesoría técnica" width="106" /></a></td>   
+        <td>
+      <a href="https://www.openbank.es" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" data-original-height="225" data-original-width="225" height="129" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoUPuNJbU7UbDI6PRDu7DJTMhk-A2hYjA2OYm-FOwaPWZw4x7AUkI5-pPElybyuHOYTpBTgCEMSbp6tXZo5EWssNkggbmJticdG-vZgljvyl8OdYLtGjgT2SZaFWqdzjDCftx8DKuuVnPWI5udj_mC48XCJbRJx1hUetq70naAPltEgRyJTSMwnanUxw/w129-h129/openbank.png" title="Backoffice" width="129" /></a></td>   
+    <td>
+      <a href="https://madisonmk.com" rel="nofollow" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" data-original-height="130" data-original-width="248" height="86" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzcPdQyYr2VH-rzjQHR-Lyem59kCT5qZwbTRz-5iFA-9kYT6_Qaxp94r0PFOvRtioZGEkaniVUr3yvcfAPV_PKq7sSKAL4HKMdXCw5u9yCadtIOTesaI4fUBI7AZQDXEESFxMqii83Df8lFBp8inKgb0Je86cAFRdCvTc0XsDiBn0ZYblc2S_WL50Pow/w163-h86/madisonmk.png" title="Formación, Técnico informático, Backoffice" width="163" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"></td>
+      
+    </tr>
+  </tbody>
+</table>
 
 
 <h2 align="left">Languages and Tools:</h2>
