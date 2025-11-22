@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Rodríguez</h1>
 <h3 align="center">A passionate IT Support Specialist from Spain</h3>
 
-- 🔭 I’m currently working on [D2R Ediciones](https://www.d2rediciones.blogspot.com)
+- 🔭 I’m currently working on [D2R Ediciones](https://www.d2rediciones.blogspot.com) I'm not open to get another job.
 
 - 😎 I have experience in QA testing
 
