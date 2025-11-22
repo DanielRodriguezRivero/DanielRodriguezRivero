@@ -30,7 +30,7 @@
 <li>Curso de redacción satírica para Internet con Kike García - La Llama School</li>
 <li>Literatura de humor con Ramón Pardina - La Llama School</li>
 <li>Cómo escribir un monólogo con Tomás Fuentes - La Llama School</li>
-<li><Literatura a partir de chistes de Eugenio con Ramón Pardina - La Llama School</li>
+<li>Literatura a partir de chistes de Eugenio con Ramón Pardina - La Llama School</li>
 <li>Curso de guión de humor para radio y podcasting con Pilar de Francisco - La Llama School</li>
 <li>Ideación de un Late Night - La Llama School</li>
 <li>Curso de escritura y publicación de tu novela - La Llama School</li>
